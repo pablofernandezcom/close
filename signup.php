@@ -1,4 +1,5 @@
 <?php
+Copyright 2016, Pablo Fernandez
 // ****************************************************************************************************
 // Opens a secure mysqli database connection 
 // Opens a secure mysql database connection and starts session
